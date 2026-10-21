@@ -21,7 +21,7 @@ Soy un desarrollador enfocado en la creación de aplicaciones web y móviles mod
 
 ---
 
-### 🎓 Formación y Certificaciones
+### Formación y Certificaciones
 
 * **Licenciatura en Ciencia de Datos** (En curso, 2026 - Actualidad).
 * **Técnico Superior en Desarrollo de Software** - IFTS Nº 11 (2023 - 2025). 
@@ -29,7 +29,7 @@ Soy un desarrollador enfocado en la creación de aplicaciones web y móviles mod
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 * **LinkedIn:** [linkedin.com/in/jeanbracho](https://linkedin.com/in/jeanbracho)
 * **Email:** jeancbs18ar@gmail.com
