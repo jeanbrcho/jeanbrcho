@@ -2,7 +2,7 @@
 
 ### Desarrollador de Software | Estudiante de Lic. en Tecnologías Digitales
 
-Soy un desarrollador enfocado en la creación de aplicaciones web y móviles modernas, actualmente expandiendo mis conocimientos hacia la **Ciencia de Datos**. Mi formación técnica y mi actual formación de grado me permiten abordar proyectos con una visión integral entre el desarrollo y el análisis de datos.
+Soy un desarrollador enfocado en la creación de aplicaciones web y móviles modernas, actualmente expandiendo mis conocimientos en la Licenciatura de **Tecnologías Digitales**. Mi formación técnica y mi actual formación de grado me permiten abordar proyectos con una visión integral entre el desarrollo y el análisis de datos.
 
 ---
 
