@@ -4,6 +4,8 @@
 
 Soy un desarrollador enfocado en la creación de aplicaciones web y móviles modernas, actualmente expandiendo mis conocimientos en la Licenciatura de **Tecnologías Digitales**. Mi formación técnica y mi actual formación de grado me permiten abordar proyectos con una visión integral entre el desarrollo y el análisis de datos.
 
+**Portfolio:** [https://jeanbracho.vercel.app/](https://jeanbracho.vercel.app/)
+
 ---
 
 ### Tecnologías y Herramientas
