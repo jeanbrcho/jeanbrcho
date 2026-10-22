@@ -18,14 +18,14 @@ Soy un desarrollador enfocado en la creación de aplicaciones web y móviles mod
 
 ### Proyectos Destacados
 
-* **Aplicación Meteorológica METAR:** App para consulta de información aeronáutica desarrollada con Angular e Ionic, integrando Firebase para autenticación.
 * **Sistema Web de Turnos:** Gestión de servicios mediante una arquitectura basada en componentes y formularios validados en Angular.
+* **Aplicación Meteorológica METAR:** App para consulta de información aeronáutica desarrollada con Angular e Ionic, integrando Firebase para autenticación.
 
 ---
 
 ### Formación y Certificaciones
 
-* **Licenciatura en Ciencia de Datos** (En curso, 2026 - Actualidad).
+* **Licenciatura en Tecnologías Digitales** (En curso, 2026 - Actualidad).
 * **Técnico Superior en Desarrollo de Software** - IFTS Nº 11 (2023 - 2025). 
 * **Inglés Técnico para Desarrolladores** - CUI UBA (Nivel Intermedio).
 
